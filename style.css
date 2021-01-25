@@ -1,0 +1,87 @@
+/* footer */
+
+.footer-style {
+    padding-top: 50px;
+    background-color: #2C3E50;
+}
+footer {
+  color: white;
+}
+footer h3 {
+  margin-bottom: 30px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: #2C3E50;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #233140;
+}
+
+/* carrousel */
+.img-carrousel {
+    width: 200px;height: 600px;
+    align-items: center;
+}
+
+.carrouselback {
+    background-color: #2C3E50;
+}
+
+/* tarjetas planteles */
+
+.img-card {
+  width: 640px;
+  height: 440px;
+}
+
+.tarjetas {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: cornflowerblue;
+  padding-bottom: 30px;
+}
+
+.body {
+  background-color: wheat;
+  font-family: 'Mitr', sans-serif
+}
+
+/* historia y valores*/
+
+.historia {
+  background-color: cornflowerblue;
+}
+
+
+/* galeria */
+
+#galeria .col-lg-4 {
+  margin: 0 !important;
+  padding: 25px;
+}
+
+#galeria img {
+  width: 100%;
+  height: 250px;
+}
+
+#galeria img:hover {
+  border: 5px solid #f7f7f7;
+}
+
+#galeria {
+  background-color: cornflowerblue;
+}
+
+/* formulario */
+
+.contacto {
+  margin-bottom: 15px;
+  background-color: cornflowerblue;  
+}
